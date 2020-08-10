@@ -1,0 +1,7 @@
+name: reak 
+api: 3.14.1
+another: Reak
+version: 1.0
+command: 
+   skywars
+   description: to create a skywars arena
